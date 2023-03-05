@@ -1,6 +1,6 @@
 # Hi, I'm TheWilley (William Larsson) 👋
 
-- 🔭 I’m currently working on [ChronoMS](https://github.com/TheWilley/ChronoMS)
+- 🔭 I’m currently working on [Fruity Dance Sprite Sheet Generator]([https://github.com/TheWilley/ChronoMS](https://github.com/TheWilley/Fruity_Dance_Sprite_Sheet_Generator))
 - 🎓 Graduating in summer 2023 (hopefully)
 - 🏛️ Always looking to improve my skills
 
