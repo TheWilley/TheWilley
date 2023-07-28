@@ -1,7 +1,7 @@
 # Hi, I'm TheWilley (William Larsson) 👋
 
-- 🔭 I’m currently working on [Fruity Dance Sprite Sheet Generator](https://github.com/TheWilley/Fruity_Dance_Sprite_Sheet_Generator)
-- 🎓 Graduating in summer 2023 (hopefully)
+- 🔭 I’m currently working on [My personal website](https://thewilley.github.io/#/)
+- 🎓 Graduated in summer 2023 
 - 🏛️ Always looking to improve my skills
 
 <h3 align="left">Languages and Tools I'm using:</h3>
