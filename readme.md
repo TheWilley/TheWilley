@@ -13,7 +13,7 @@ I am a newly examined web developer, and is currently working on various persona
     <li>📝 I sometimes write on my <a href="https://thewilley.vercel.app/blog">blog</a>.</li>
     <li>🚄 I'm currently trying to learn performance optimization within React.</li>
     <li>🤡 I like to make silly stuff, like the GIF on the right ➡️</li>
-    <li>📹 Looking to make videos on YouTube</li>
+    <li>📹 Looking to make videos on YouTube.</li>
     <li>🎓 Graduated in summer 2023.</li>
     <li>👨‍💼 Very much looking for a job.</li>
     <li>🏛️ Always looking to improve my skills.</li>
