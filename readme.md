@@ -1,5 +1,5 @@
 ## Hi, I'm TheWilley (William Larsson) 👋
-I am a newly examined web developer, and is currently working on various personal project while searching for a job. 
+I am a newly examined web developer, and is currently working on various personal projects while searching for a job. 
 
 [![YouTube Badge](https://img.shields.io/badge/-@TheWilley%20Music-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCH0QD9v3h2fwL0-Bc2hM9iQ)](https://www.youtube.com/channel/UCH0QD9v3h2fwL0-Bc2hM9iQ)
 [![Reddit Badge](https://img.shields.io/badge/-@TheWilley-FF4500?style=flat-square&labelColor=FF4500&logo=reddit&logoColor=white&link=https://www.reddit.com/user/thewilley/)](https://www.reddit.com/user/thewilley/)
@@ -13,7 +13,7 @@ I am a newly examined web developer, and is currently working on various persona
     <li>📝 I sometimes write on my <a href="https://thewilley.vercel.app/blog">blog</a>.</li>
     <li>🚄 I'm currently trying to learn performance optimization within React.</li>
     <li>🤡 I like to make silly stuff, like the GIF on the right ➡️</li>
-    <li>📹 Looking to get into YouTube</li>
+    <li>📹 Looking to make videos on YouTube</li>
     <li>🎓 Graduated in summer 2023.</li>
     <li>👨‍💼 Very much looking for a job.</li>
     <li>🏛️ Always looking to improve my skills.</li>
