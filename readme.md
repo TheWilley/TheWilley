@@ -1,5 +1,5 @@
 ## Hi, I'm TheWilley (William Larsson) 👋
-I am a newly graduated web developer, and is currently working on various personal projects while searching for a job. 
+I am a graduated web developer, and is currently working on various personal projects while searching for a job. 
 
 [![YouTube Badge](https://img.shields.io/badge/-@TheWilley%20Music-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCH0QD9v3h2fwL0-Bc2hM9iQ)](https://www.youtube.com/channel/UCH0QD9v3h2fwL0-Bc2hM9iQ)
 [![Reddit Badge](https://img.shields.io/badge/-@TheWilley-FF4500?style=flat-square&labelColor=FF4500&logo=reddit&logoColor=white&link=https://www.reddit.com/user/thewilley/)](https://www.reddit.com/user/thewilley/)
