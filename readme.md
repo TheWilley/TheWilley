@@ -10,7 +10,7 @@ I am a graduated web developer, and is currently working on various personal pro
   <img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFqanppMDExaG12N283bTNydHdmdHF6YnNxazE1Z2o1dGluc3kybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyJrExmU40Xbsjmq10/giphy.gif' width='50%' height='auto' alt='Dancing Ninja' style="float: right; margin-left: 20px;">
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/TheWilley/FruityDancitor">FruityDancitor</a>.</li>
-    <li>📝 I sometimes write on my <a href="https://thewilley.vercel.app/blog">blog</a>.</li>
+    <li>📝 I sometimes write on my <a href="https://willeyecode.com">blog</a>.</li>
     <li>🚄 I'm currently trying to learn performance optimization within React.</li>
     <li>🤡 I like to make silly stuff, like the GIF on the right ➡️</li>
     <li>📹 Looking to make videos on YouTube.</li>
